@@ -12,7 +12,7 @@ pydantic==2.10.3
 pydantic-settings==2.6.1
 typer==0.13.1
 rich==13.9.4
-python-multipart==0.0.20
+python-multipart==0.0.22
 # Plugin dependencies
 proxmoxer==2.0.1
 requests==2.32.3
